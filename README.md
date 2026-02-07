@@ -9,7 +9,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project] https://lovable.dev/projects/d1267ddb-41eb-457a-b12c-7b985e10b824 and start prompting.
+Simply visit the [Lovable Project] https://medialertds.lovable.app and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
