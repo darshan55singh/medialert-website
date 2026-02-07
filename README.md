@@ -2,15 +2,14 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
-
+**URL**: https://darshan55singh.github.io/medialert-website/
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Simply visit the [Lovable Project] https://lovable.dev/projects/d1267ddb-41eb-457a-b12c-7b985e10b824 and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
